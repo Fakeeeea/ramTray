@@ -8,3 +8,6 @@ I could not find ram trays bigger than 20 or 25, so I made one. Has both a DIMM 
 
 
 *Is stackable!*
+
+![preview](preview.jpg)
+
